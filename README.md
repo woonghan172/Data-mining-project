@@ -1,2 +1,2 @@
 # Data-mining-project
-UMN 25F
+text emotion classifier
